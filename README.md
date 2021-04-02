@@ -28,6 +28,10 @@ The implementation includes comprehensive tests covering leader election, log re
 make test
 ```
 
+## Further reading
+
+I've written blog posts about the implementation process. Check them out on my [blog](https://navgeet.github.io/tags.html#raft-ref).
+
 ## Notes
 
 This is a learning project to understand Raft consensus. It implements the core algorithm but isn't production-ready.
