@@ -35,3 +35,8 @@ I've written blog posts about the implementation process. Check them out on my [
 ## Notes
 
 This is a learning project to understand Raft consensus. It implements the core algorithm but isn't production-ready.
+
+## License
+
+Copyright © 2026 Navgeet Agarwal
+Distributed under the MIT License.
